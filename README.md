@@ -4,10 +4,9 @@
 
 ## Development Tools
 
-* ###### Unity Engine 2019.4.9f1 LTS
+* ### Unity Engine 2019.4.9f1 LTS
 
-* ###### AR Core
-
+* ### AR Core
 
 
 
